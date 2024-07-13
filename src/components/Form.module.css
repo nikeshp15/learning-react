@@ -1,0 +1,14 @@
+.userForm {
+    color:brown;
+    font-size: 24px;
+    margin-bottom: 16px;
+
+}
+
+.formLabel {
+    margin-right: 16px;
+}
+
+.formControl {
+    margin-bottom: 8px;
+}
